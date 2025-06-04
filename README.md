@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**Coco4002/Coco4002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Cocos Darius, a second-year Computer Science student at Politehnica University of Timișoara.  
+I'm passionate about technology, programming, and solving real-world problems through code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- 🎓 **Politehnica University of Timișoara**  
+  *B.Sc. in Computer Science* — Year 2  
+  Focused on software development, algorithms, and systems programming.
+
+---
+
+## 💻 Tech Stack
+
+Here are some of the technologies and tools I’m comfortable working with:
+
+- Languages: C, C++, Python, Java, JavaScript, Verilog
+- Tools: Git, GitHub, VS Code, Linux terminal
+- Interests: Algorithms, web development, scripting, automation
+
+---
+
+
+## 🚀 Projects
+
+Here are a few projects I’ve worked on or am currently building:
+
+- `Treasure Hub` – Developed a C-based simulation of a "Treasure Hunt" game with efficient data handling and user-friendly interaction. 
+- `Digital Hardware Design in Verilog` – Designed and tested modular components like ALUs, registers, and memory units in Verilog, focusing on functional correctness and simulation-based validation.
+- `SneakerSpot (In Progress)` – A desktop application for sneaker enthusiasts to buy and sell collectible shoes. Includes user roles (Admin, Seller, Buyer), product listings with images, stock and order management, and price negotiations. Currently under active development.
+
+---
+
+## 📫 Contact
+
+Feel free to connect with me:
+
+- Email: [cocodarius04@yahoo.com]
+- LinkedIn: [Darius Cocoș](https://www.linkedin.com/in/darius-cocos-408a29336/)
+
