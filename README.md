@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi! I'm Cocos Darius, a second-year Computer Science student at Politehnica University of Timișoara.  
+Hi! I'm Cocos Darius, a third-year Computer Science student at Politehnica University of Timișoara.  
 I'm passionate about technology, programming, and solving real-world problems through code.  
 
 ---
