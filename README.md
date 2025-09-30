@@ -8,7 +8,7 @@ I'm passionate about technology, programming, and solving real-world problems th
 ## 🎓 Education
 
 - 🎓 **Politehnica University of Timișoara**  
-  *B.Sc. in Computer Science* — Year 2  
+  *B.Sc. in Computer Science* — Year 3  
   Focused on software development, algorithms, and systems programming.
 
 ---
